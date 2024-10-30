@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: bisque;
+}
+
+header {
+    background: aquamarine;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 3em;
+    align-items: end;
+    margin-top: 10px;
+}
+
+header p {
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: rgb(232, 124, 16);
+}
+
+  .navbar .menu-list{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 2px;
+    padding: 40px;
+    text-align: center;   
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.container .img1{
+    align-items: center;  
+    height: 198px;
+    width: 290px;
+    margin: 30px 10px 0px 30px;
+    padding: 3px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.container .img2{
+    align-items: center;  
+    height: 198px;
+    width: 290px;
+    margin: 30px 30px 0px 30px;
+    padding: 3px;
+    border: 5px solid white;
+    border-radius: 20px;
+
+}
+
+.container .img3{
+    align-items: center;  
+    height: 198px;
+    width: 290px;
+    margin: 30px 30px 00px 30px;
+    padding: 3px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.container .img4{
+    align-items: center;  
+    height: 198px;
+    width: 290px;
+    margin: 30px 30px 0px 30px;
+    padding: 3px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.container .img5{
+    align-items: center;  
+    height: 198px;
+    width: 290px;
+    margin: 30px 30px 0px 30px;
+    padding: 3px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+
+
+.news-facts {
+    padding: 20px 0;
+    background-color: #fff;
+    margin: 20px 0;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.news-facts h2 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.news-facts ul {
+    list-style-type: square;
+    padding-left: 40px;
+}
+
+.news-facts li {
+    font-size: 1.2em;
+    padding: 10px 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem;
+}
+
